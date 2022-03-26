@@ -8,7 +8,7 @@ services:
       - MODE=production
       - PYTHONUNBUFFERED=1
       - DEBUG=false
-      - APP_HOST=http://185.163.127.191
+      - APP_HOST=http://club.alexeydubovskoy.com
       - MEDIA_UPLOAD_URL=
       - POSTGRES_DB=vas3k_club
       - POSTGRES_USER=vas3k
